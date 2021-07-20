@@ -23,7 +23,7 @@ int main() {
 				// if the current element is in even position (zero-based), then add it to 'left'
 				left += a[i];
 			} else {
-				// if the current element is in odd position (zero-based), then add it ot 'right'
+				// if the current element is in odd position (zero-based), then add it to 'right'
 				right += a[i];
 			}
 			// check if 'left' and 'right' are equal
